@@ -1,5 +1,5 @@
 runtime: python38
-entrypoint: gunicorn :$PORT   rest-server:application
+
 env_variables:
   CLOUD_SQL_USERNAME : "root"
   CLOUD_SQL_PASSWORD : "root"
