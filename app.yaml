@@ -1,9 +1,4 @@
 runtime: python38
 
-env_variables:
-  CLOUD_SQL_USERNAME : "root"
-  CLOUD_SQL_PASSWORD : "root"
-  CLOUD_SQL_DATABASE_NAME : "userdata"
-  CLOUD_SQL_CONNECTION_NAME : "cloudproject-345422:europe-west2-c:numberplate"
-  GAE_ENV : "standard"
+
 
