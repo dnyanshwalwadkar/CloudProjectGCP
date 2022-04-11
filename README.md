@@ -1,6 +1,6 @@
 # Web application for recognizing vehicle number plates over GCP
 
-![image](https://user-images.githubusercontent.com/44721153/162661209-421d3fa5-c2d2-4563-a188-2303d954cdc1.png)
+![image](https://user-images.githubusercontent.com/44721153/162664210-d7344b0c-62f0-403a-92a7-0cddb474e64c.png)
 
 
 ![image](https://user-images.githubusercontent.com/44721153/162663530-57f1ac21-17e2-421a-8375-d9dc3ad5d6a5.png)
